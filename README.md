@@ -1,7 +1,7 @@
 ## Crear una ToDoMVC con Typescript
 
--[ ] Inicializar un proyecto con Vite
--[ ] Añadir linter para Typescript + React
+-[X] Inicializar un proyecto con Vite
+-[X] Añadir linter para Typescript + React
 -[ ] Añadir estilos del ToDoMVC
 -[ ] Listar todos los TODOs
 -[ ] Poder borrar un TODO
@@ -14,4 +14,4 @@
 -[ ] Poder editar el tecto de un TODO (Doble click)
 -[ ] Añadir animaciones con AutoAnimate
 -[ ] Pasar a Reducer
--[ ] Sincronizar con el backend
+-[ ] Sincronizar con el backend 
